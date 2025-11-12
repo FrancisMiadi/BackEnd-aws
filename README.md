@@ -2,6 +2,8 @@
 
 echo "Starting backend setup..."
 
+cd server
+
 # Step 1: Install dependencies
 
 echo "Installing dependencies..."
