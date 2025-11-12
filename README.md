@@ -12,9 +12,9 @@ npm install
 
 # 2. Create a .env file
 # Copy the content from .env.example and paste it into your new .env file
-# Replace the placeholder strings with your actual database connection string
+# Replace the placeholder string for mongoDb_URL with your actual database connection string
 # Keep the PORT value as it is
-# Change the JWT secret key to your own secure value
+# Change the JWT secret key to your own secure value (it can be any string)
 
 # 3. Start the backend server
 node index.js
